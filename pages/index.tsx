@@ -37,8 +37,8 @@ const Home: NextPage = () => {
   // @ts-ignore
   const [text, setText] = useState<string>(defaultMyCompProps.username);
 
-  const inputProps: z.infer<typeof CompositionProps> = useMemo(() => {
   // @ts-ignore
+  const inputProps: z.infer<typeof CompositionProps> = useMemo(() => {
     return {
       username: text,
     };
