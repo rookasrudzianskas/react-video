@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="remotionlambda-arm64">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/node_modules/@remotion/lambda/remotionlambda-arm64.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
